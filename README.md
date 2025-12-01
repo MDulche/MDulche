@@ -6,7 +6,7 @@
 
 *En route pour un contrat d'alternance Bachelor/Master en développement backend & cybersécurité*
 
-[Email](mailto:maxencedulche@outlook.com) • [LinkedIn](https://linkedin.com/in/maxence-dulche) • [GitHub](https://github.com/maxence-dulche)
+[Email](mailto:maxencedulche@outlook.com) • [LinkedIn](https://linkedin.com/in/maxence-dulche)
 
 </div>
 
