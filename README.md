@@ -106,8 +106,6 @@ En alternance chez INFODOM depuis juillet 2024 (gestion parc IT, 50+ postes).
 
 🔗 **LinkedIn** : [maxence-dulche](https://linkedin.com/in/maxence-dulche)
 
-📱 **Téléphone** : 06 63 23 21 69
-
 ---
 
 ## 💡 Ce qui me motive
