@@ -35,6 +35,17 @@ En alternance chez INFODOM depuis juillet 2024 (gestion parc IT, 50+ postes).
 
 ---
 
+## 📚 En cours d'apprentissage
+
+### C# Avancé
+- Architecture backend robuste & scalable
+- API REST & microservices
+- Entity Framework & async/await
+- Design patterns (SOLID, DDD)
+- **Ressources** : Visual Studio, docs Microsoft, projets persos
+
+---
+
 ## 📋 Projets à venir
 
 ### Messagerie Sécurisée
