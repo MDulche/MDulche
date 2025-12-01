@@ -18,17 +18,20 @@ En alternance chez INFODOM depuis juillet 2024 (gestion parc IT, 50+ postes).
 - RAID mdadm (RAID 1, migration vers RAID 5)
 - Architecture scalable, 99.5% uptime
 - **Tech** : ESXi, Linux, Docker, RAID, Networking
+- [**Repo**](https://github.com/maxence-dulche/home-lab-infrastructure)
 
 ### Applications Web
 - Interfaces responsives (HTML/CSS/JavaScript)
 - React components, Bootstrap
 - Validation client-side, gestion dynamique
 - **Déploiement** : Hébergement autonome OVH
+- [**Repo**](https://github.com/maxence-dulche/web-app)
 
 ### Automation Scripts
 - PowerShell, Bash pour déploiement/maintenance IT
 - Outils administration système
 - **Focus** : Efficacité, automatisation
+- [**Repo**](https://github.com/maxence-dulche/automation-scripts)
 
 ---
 
@@ -39,32 +42,21 @@ En alternance chez INFODOM depuis juillet 2024 (gestion parc IT, 50+ postes).
 - Backend C# ou Python
 - Architecture robuste
 - **Objectif** : Communication sécurisée, confidentialité garantie
+- Status : En planification
 
 ### Réalité Augmentée
 - Exploration technos AR
 - Proof of concept interactif
 - **Stack** : Unity, WebAR (à déterminer)
 - **Objectif** : Apprendre nouvelles dimensions du développement
+- Status : Recherche technos
 
 ### Monitoring Appareils
 - Dashboard supervision infrastructure
 - Alertes temps réel, métriques
 - **Backend** : C# ou Python
 - **Objectif** : Supervision IT complète, alertes intelligentes
-
----
-
-## 💼 Expérience
-
-**INFODOM** (Juillet 2024 - Présent)
-- Gestion parc informatique 50+ postes
-- Support utilisateurs 15-20 tickets/jour
-- Configuration infrastructure : VLAN, VPN, pare-feu Cisco
-- Administration Microsoft 365
-- Déploiement projets critiques (99.5% uptime)
-
-**Tech On Me** (Novembre 2022)
-- Stage : Maintenance matériel, support logiciel
+- Status : Architecture en cours
 
 ---
 
@@ -97,41 +89,13 @@ En alternance chez INFODOM depuis juillet 2024 (gestion parc IT, 50+ postes).
 
 ---
 
-## 🎓 Formation
-
-**BTS CIEL** (2023 - Présent)
-- IRUP, Saint-Étienne
-- Spécialisation : Développement C# + Administration système
-- Projets : API REST, VLAN/VPN config, gestion RAID
-
-**Baccalauréat Général** (2023)
-- Lycée Saint-Pierre, Montrond-les-Bains
-- Spécialités : Mathématiques, NSI
-
----
-
-## 🌍 Langues
-
-- **Français** : Langue maternelle
-- **Anglais** : Intermédiaire (B1) – Doc technique, conversation
-
----
-
 ## 📫 Contact
 
-📧 **Email** : maxencedulche@outlook.com
+📧 **Email** : [maxencedulche@outlook.com](mailto:maxencedulche@outlook.com)
 
 🔗 **LinkedIn** : [maxence-dulche](https://linkedin.com/in/maxence-dulche)
 
 📱 **Téléphone** : 06 63 23 21 69
-
----
-
-## 🎯 Recherche active
-
-Alternance **Bachelor/Master 2025-2026** en développement backend ou infrastructure sécurisée.
-
-Intéressé par : cybersécurité, DevOps, architecture scalable, infrastructure cloud.
 
 ---
 
